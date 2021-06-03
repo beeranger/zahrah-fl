@@ -1,6 +1,6 @@
 # Zahrah Luthfiyyah 
 
-Research Engineer <br>
+Research Engineer from Indonesia <br>
 Ready to solve your technical difficulties with embedded system
 
 ## Technical Skills
