@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Zahrah Luthfiyyah 
 
-You can use the [editor on GitHub](https://github.com/beeranger/zahrah-fl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Research Engineer <br>
+Ready to solve your technical difficulties with embedded system
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technical Skills
+ - Data Analysis
+ - Image recognition and analysis
+ - Computer vision
+ - Machine Learning
 
-### Markdown
+## Coding Skills
+![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Python-Scikitlearn-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Python-TensorFlow-informational?style=flat&logo=#FF6F00&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Python-PyTorch-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/AI-Machine_Learning-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/AI-Deep_Learning-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Technical Experience
 
-```markdown
-Syntax highlighted code block
+**Research Engineer** @[Koito Manufacturing ](https://www.koito.co.jp)-Shizuoka _(Feb 2018 - Mar 2021)_ <br>
+Building Object detection software for Intelligent headlamp.
+  - Building cars and pedestrian detection using infrared camera.
+  - Building deep learning based object detection for RGB camera.
+  - **_Technologies used:_** Python, TensorFlow, Pytorch.
+  - **_Object detection:_** YOLOV3, CenterNet, RetinaNet.
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+## Languages
 
-- Bulleted
-- List
+**English**: Working Proficiency <br>
+**Japanese**:  Working Proficiency
+<br><br>
 
-1. Numbered
-2. List
+## Education
 
-**Bold** and _Italic_ and `Code` text
+**Bachelor of Engineering** in Electrical engineering <br>
+[Universitas Indonesia](https://www.ui.ac.id/en/) - Depok, Jawa Barat, Indonesia _(2011 - 2015)_
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beeranger/zahrah-fl/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Master of Engineering** in Mechanical enginnering department focusing on Robotics <br>
+[Shizuoka University](https://www.shizuoka.ac.jp/index.html) - Hamamatsu, Japan _(2015 - 2017)_<br>
+Former member of [Kobayashi Lab.](https://sensor.eng.shizuoka.ac.jp/content_eng.htm) focused on studying prediction of mobile robot's vertical vibration cost.
