@@ -22,6 +22,12 @@ Building Object detection software for Intelligent headlamp.
   - **_Object detection:_** YOLOV3, CenterNet, RetinaNet.
 <br><br>
 
+**Web Engineer**
+Building web application for a school and managing it.
+ - https://ramahanak.sch.id/  
+ - https://ppdb.ramahanak.sch.id/
+<br><br>
+
 ## Languages
 
 **English**: Working Proficiency <br>
